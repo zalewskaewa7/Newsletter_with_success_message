@@ -9,4 +9,4 @@ To completed this project I use React app.
 - This is my screenshot:
 ![Design desktop for the QR code component coding challenge](./src/design/challenge_completed/Screenshot%202023-08-01%20at%2021-00-54%20React%20App.png)
 
-All challenge on 
+All challenge on https://zalewskaewa7.github.io/Newsletter_with_success_message
